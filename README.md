@@ -19,7 +19,7 @@
 ### clone
 
 ```bash
-$ git clone https://github.com/iczer/vue-antd-admin.git
+$ git clone https://github.com/uoyoCsharp/ant-design-vue-ts.git
 ```
 
 ### yarn
